@@ -1,0 +1,15 @@
+[
+    {
+        'totalAmount': '4.48925276', 
+        'latestAnnualPercentageRate': '0.00326795', 
+        'asset': 'ADA', 
+        'canRedeem': True, 
+        'collateralAmount': '0', 
+        'productId': 'ADA001', 
+        'yesterdayRealTimeRewards': '0.00003431', 
+        'cumulativeBonusRewards': '0', 
+        'cumulativeRealTimeRewards': '0.00010304', 
+        'cumulativeTotalRewards': '0.00010304', 
+        'autoSubscribe': True
+    }
+]
