@@ -1,15 +1,55 @@
 [
     {
-        'totalAmount': '4.48925276', 
-        'latestAnnualPercentageRate': '0.00326795', 
-        'asset': 'ADA', 
-        'canRedeem': True, 
+        'totalAmount': '4.48936306', 
+        'latestAnnualPercentageRate': '0.00294415', 
+        'asset': 'ADA', 'canRedeem': True, 
         'collateralAmount': '0', 
         'productId': 'ADA001', 
-        'yesterdayRealTimeRewards': '0.00003431', 
+        'yesterdayRealTimeRewards': '0.00003692', 
         'cumulativeBonusRewards': '0', 
-        'cumulativeRealTimeRewards': '0.00010304', 
-        'cumulativeTotalRewards': '0.00010304', 
+        'cumulativeRealTimeRewards': '0.00021334', 
+        'cumulativeTotalRewards': '0.00021334', 
+        'autoSubscribe': True
+    }, 
+    {
+        'totalAmount': '0.00573836', 
+        'tierAnnualPercentageRate': {'0-1BNB': '0.00160000'}, 
+        'latestAnnualPercentageRate': '0.00028264', 
+        'asset': 'BNB', 
+        'canRedeem': True, 
+        'collateralAmount': '0', 
+        'productId': 'BNB001', 
+        'yesterdayRealTimeRewards': '0', 
+        'cumulativeBonusRewards': '0.00000008', 
+        'cumulativeRealTimeRewards': '0.00000003', 
+        'cumulativeTotalRewards': '0.00000011', 
+        'autoSubscribe': True
+    }, 
+    {
+        'totalAmount': '0.00311938', 
+        'tierAnnualPercentageRate': {'0-0.2ETH': '0.00500000'}, 
+        'latestAnnualPercentageRate': '0.0105088', 
+        'asset': 'ETH', 
+        'canRedeem': True, 
+        'collateralAmount': '0', 
+        'productId': 'ETH001', 
+        'yesterdayRealTimeRewards': '0.0000001', 
+        'cumulativeBonusRewards': '0.00000016', 
+        'cumulativeRealTimeRewards': '0.00000048', 
+        'cumulativeTotalRewards': '0.00000064', 
+        'autoSubscribe': True
+    }, 
+    {
+        'totalAmount': '0.10782319', 
+        'latestAnnualPercentageRate': '0.00076724', 
+        'asset': 'LINK', 
+        'canRedeem': True, 
+        'collateralAmount': '0', 
+        'productId': 'LINK001', 
+        'yesterdayRealTimeRewards': '0.00000021', 
+        'cumulativeBonusRewards': '0', 
+        'cumulativeRealTimeRewards': '0.00000132', 
+        'cumulativeTotalRewards': '0.00000132', 
         'autoSubscribe': True
     }
 ]

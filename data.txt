@@ -1,0 +1,10 @@
+ Balance 
+ [
+    {
+        'asset' : 'BTC'
+        'totalAmount': 0.00311976
+        'value': 
+        'negotibleMin'
+        'minBRL'
+    }
+ ]
